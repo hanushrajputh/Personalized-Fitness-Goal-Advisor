@@ -35,5 +35,5 @@ Welcome to the **Personalized Fitness Goal Advisor**! This web application helps
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/fitness-goal-advisor.git
+   git clone https://github.com/hanushrajputh/fitness-goal-advisor.git
    cd fitness-goal-advisor
