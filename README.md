@@ -1,6 +1,6 @@
 # Personalized Fitness Goal Advisor 🏋️‍♂️
 
-Welcome to the **Personalized Fitness Goal Advisor**! This web application helps users get personalized fitness advice based on their goals, such as losing weight, gaining muscle, or maintaining fitness. Built with **HTML, CSS, and JavaScript**, this project is simple, user-friendly, and visually appealing with a modern dark theme.
+Welcome to the **Personalized Fitness Goal Advisor**! This web application helps users get personalized fitness advice based on their goals, such as losing weight, gaining muscle, or maintaining fitness. Built with **HTML, CSS, and JavaScript**, this project is simple, user-friendly, and visually appealing with a modern dark theme.  
 Live at : [Visit](https://hanushrajputh.github.io/Personalized-Fitness-Goal-Advisor/)
 ---
 
